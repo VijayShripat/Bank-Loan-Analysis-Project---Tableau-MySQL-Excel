@@ -1,1 +1,1 @@
-# Bank-Loan-Project-_Tableau-MySQL-Excel
+Bank-Loan-Analysis--Tableau-MySQL-Excel
